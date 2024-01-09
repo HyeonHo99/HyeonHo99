@@ -6,8 +6,7 @@
 
 🔭 Deeply interested in solving video generative tasks using Diffusion Models.
 
-🤝 Eager to collaborate on any research projects, especially those aligned with my field of interest
-I am keen on collaborating and teaming up for research projects, especially those aligned with my field of interest.
+🤝 Eager to collaborate on any research projects or join study groups, especially those aligned with my field of interest.
 
 💼 Freqeuntly seeking corporate internship opportunities.
 
