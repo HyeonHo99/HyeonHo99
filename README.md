@@ -2,7 +2,7 @@
 
 - Hello! I’m Hyeonho Jeong.
 
-- Currently pursuing my Master of Science degree at KAIST (started in September 2023 and now in my 1st semester).
+- Currently pursuing M.S. at KAIST (now in my 1st semester).
 
 - Deeply interested in solving video generative tasks using Diffusion Models.
 
