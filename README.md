@@ -33,4 +33,3 @@ _**Hyeonho Jeong***, Geon Yeong Park*, Jong Chul Ye_ \
 Zero-shot Generation of Coherent Storybook from Plain Text Story using Diffusion Models \
 ***Hyeonho Jeong**, Jong Chul Ye* \
 [[Read the paper](https://arxiv.org/abs/2302.03900)]
-(Done during undergraduate studies)
