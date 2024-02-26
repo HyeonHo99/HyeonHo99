@@ -16,7 +16,7 @@
 
 **Recent papers**
 
-VMC: Video Motion Customization using Temporal Attention Adaption for Text-to-Video Diffusion Models \
+**[CVPR 2024]** VMC: Video Motion Customization using Temporal Attention Adaption for Text-to-Video Diffusion Models \
 _**Hyeonho Jeong***, Geon Yeong Park*, Jong Chul Ye_ \
 [[Read the paper](https://arxiv.org/abs/2312.00845)]
 
