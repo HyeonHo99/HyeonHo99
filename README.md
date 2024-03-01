@@ -18,18 +18,18 @@
 
 **[CVPR 2024]** VMC: Video Motion Customization using Temporal Attention Adaption for Text-to-Video Diffusion Models \
 _**Hyeonho Jeong***, Geon Yeong Park*, Jong Chul Ye_ \
-[[Read the paper](https://arxiv.org/abs/2312.00845)]
+[Paper](https://arxiv.org/abs/2312.00845) | [Project](https://video-motion-customization.github.io/)
 
 **[ICLR 2024]** Ground-A-Video: Zero-shot Grounded Video Editing using Text-to-image Diffusion Models \
 ***Hyeonho Jeong**, Jong Chul Ye* \
-[[Read the paper](https://arxiv.org/abs/2310.01107)]
+[Paper](https://arxiv.org/abs/2310.01107) | [Project](https://ground-a-video.github.io/)
 
 
 **[ICASSP 2024]** Neural Network Training Strategy to Enhance Anomaly Detection Performance: A Perspective on Reconstruction Loss Amplification \
 *YeongHyeon Park, Sungho Kang, Myung Jin Kim, **Hyeonho Jeong**, Hyunkyu Park, Hyeong Seok Kim, Juneho Yi* \
-[[Read the paper](https://arxiv.org/abs/2308.14595)]
+[Paper](https://arxiv.org/abs/2308.14595)
 
 
 Zero-shot Generation of Coherent Storybook from Plain Text Story using Diffusion Models \
 ***Hyeonho Jeong**, Gihyun Kwon, Jong Chul Ye* \
-[[Read the paper](https://arxiv.org/abs/2302.03900)]
+[Paper](https://arxiv.org/abs/2302.03900)
