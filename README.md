@@ -20,7 +20,7 @@ Spectral Motion Alignment for Video Motion Transfer using Diffusion Models \
 _Geon Yeong Park*, **Hyeonho Jeong***, Sang Wan Lee, Jong Chul Ye_ \
 [Paper](https://arxiv.org/abs/2403.15249) | [Project](https://geonyeong-park.github.io/spectral-motion-alignment/)
 
-DreamMotion: Space-Time Self-Similarity Score Distillation for Zero-Shot Video Editing \
+**[ECCV 2024]** DreamMotion: Space-Time Self-Similarity Score Distillation for Zero-Shot Video Editing \
 ***Hyeonho Jeong**, Jinho Chang, Geon Yeong Park, Jong Chul Ye* \
 [Paper](https://arxiv.org/abs/2403.12002) | [Project](https://hyeonho99.github.io/dreammotion/)
 
