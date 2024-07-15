@@ -8,7 +8,7 @@
 
 - Eager to collaborate on any research projects or join study groups, especially those aligned with my field of interest.
 
-- Freqeuntly seeking corporate internship opportunities.
+- Frequently seeking corporate internship opportunities.
 
 - Feel free to reach out to me at hyeonho.jeong@kaist.ac.kr or drake6751@gmail.com
 
@@ -20,7 +20,7 @@ Spectral Motion Alignment for Video Motion Transfer using Diffusion Models \
 _Geon Yeong Park*, **Hyeonho Jeong***, Sang Wan Lee, Jong Chul Ye_ \
 [Paper](https://arxiv.org/abs/2403.15249) | [Project](https://geonyeong-park.github.io/spectral-motion-alignment/)
 
-**[ECCV 2024]** DreamMotion: Space-Time Self-Similarity Score Distillation for Zero-Shot Video Editing \
+**[ECCV 2024]** DreamMotion: Space-Time Self-Similar Score Distillation for Zero-Shot Video Editing \
 ***Hyeonho Jeong**, Jinho Chang, Geon Yeong Park, Jong Chul Ye* \
 [Paper](https://arxiv.org/abs/2403.12002) | [Project](https://hyeonho99.github.io/dreammotion/)
 
