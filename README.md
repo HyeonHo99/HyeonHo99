@@ -18,13 +18,13 @@
 
 Track4Gen: Teaching Video Diffusion Models to Track Points Improves Video Generation \
 _**Hyeonho Jeong**, Chun-Hao P. Huang, Jong Chul Ye, Niloy J. Mitra, Duygu Ceylan_ \
-[Paper](#) | [Project](https://hyeonho99.github.io/track4gen/)
+[Paper](https://arxiv.org/abs/2412.06016) | [Project](https://hyeonho99.github.io/track4gen/)
 
 On Unifying Video Generation and Camera Pose Estimation \
 *Chun-Hao P. Huang, Jae Shin Yoon, **Hyeonho Jeong**, Niloy J. Mitra, Duygu Ceylan* \
 [Paper](#)
 
-Spectral Motion Alignment for Video Motion Transfer using Diffusion Models \
+**[AAAI 2025]** Spectral Motion Alignment for Video Motion Transfer using Diffusion Models \
 _Geon Yeong Park*, **Hyeonho Jeong***, Sang Wan Lee, Jong Chul Ye_ \
 [Paper](https://arxiv.org/abs/2403.15249) | [Project](https://geonyeong-park.github.io/spectral-motion-alignment/)
 
