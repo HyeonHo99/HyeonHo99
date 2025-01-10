@@ -8,7 +8,7 @@
 
 - Open to collaborate on any research projects or join study groups, especially those aligned with my field of interest.
 
-- <del>Frequently seeking corporate internship opportunities.</del>
+- Not looking for corporate internship opportunities
 
 - Feel free to reach out to me at hyeonho.jeong@kaist.ac.kr or drake6751@gmail.com
 
