@@ -2,11 +2,11 @@
 
 - Hello! I’m Hyeonho Jeong.
 
-- Currently pursuing M.S. at KAIST (now in my 3rd semester).
+- Currently pursuing M.S. at KAIST (now in my last semester).
 
-- Deeply interested in solving video generative tasks using Diffusion Models.
+- Interested in solving video generative tasks using Diffusion Models.
 
-- Eager to collaborate on any research projects or join study groups, especially those aligned with my field of interest.
+- Open to collaborate on any research projects or join study groups, especially those aligned with my field of interest.
 
 - <del>Frequently seeking corporate internship opportunities.</del>
 
