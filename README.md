@@ -16,6 +16,10 @@
 
 **Recent papers**
 
+Reangle-A-Video: 4D Video Generation as Video-to-Video Translation \
+_**Hyeonho Jeong***, Suhyeon Lee*, Jong Chul Ye_ \
+[Paper](https://arxiv.org/abs/2503.09151) | [Project](https://hyeonho99.github.io/reangle-a-video/)
+
 On Unifying Video Generation and Camera Pose Estimation \
 *Chun-Hao P. Huang, Jae Shin Yoon, **Hyeonho Jeong**, Niloy J. Mitra, Duygu Ceylan* \
 [Paper](https://arxiv.org/abs/2501.01409) | [Project](https://paulchhuang.github.io/jog3rwebsite/)
