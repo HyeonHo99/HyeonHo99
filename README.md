@@ -16,7 +16,7 @@
 
 **Recent papers**
 
-Reangle-A-Video: 4D Video Generation as Video-to-Video Translation \
+**[ICCV 2025]** Reangle-A-Video: 4D Video Generation as Video-to-Video Translation \
 _**Hyeonho Jeong***, Suhyeon Lee*, Jong Chul Ye_ \
 [Paper](https://arxiv.org/abs/2503.09151) | [Project](https://hyeonho99.github.io/reangle-a-video/)
 
