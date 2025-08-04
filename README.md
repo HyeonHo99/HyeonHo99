@@ -2,27 +2,29 @@
 
 - Hello! I’m Hyeonho Jeong.
 
-- Currently pursuing M.S. at KAIST (now in my last semester).
+- Currently in Adobe Research as a full-time Research Engineer
 
 - Interested in solving video generative tasks using Diffusion Models.
 
 - Open to collaborate on any research projects or join study groups, especially those aligned with my field of interest.
 
-- NOT looking for corporate internship opportunities
 
-- Feel free to reach out to me at hyeonho.jeong@kaist.ac.kr or drake6751@gmail.com
+- Feel free to reach out to me at hyeonhoj(at)adobe.com or drake6751(at)gmail.com
 
 ----
 
 **Recent papers**
 
+
+**[BMVC 2025]** JOG3R: Towards 3D-Consistent Video Generators \
+*Chun-Hao P. Huang, Niloy J. Mitra, **Hyeonho Jeong**, Jae Shin Yoon, Duygu Ceylan* \
+[Paper](https://arxiv.org/abs/2501.01409) | [Project](https://paulchhuang.github.io/jog3rwebsite/)
+
+
 **[ICCV 2025]** Reangle-A-Video: 4D Video Generation as Video-to-Video Translation \
 _**Hyeonho Jeong***, Suhyeon Lee*, Jong Chul Ye_ \
 [Paper](https://arxiv.org/abs/2503.09151) | [Project](https://hyeonho99.github.io/reangle-a-video/)
 
-On Unifying Video Generation and Camera Pose Estimation \
-*Chun-Hao P. Huang, Jae Shin Yoon, **Hyeonho Jeong**, Niloy J. Mitra, Duygu Ceylan* \
-[Paper](https://arxiv.org/abs/2501.01409) | [Project](https://paulchhuang.github.io/jog3rwebsite/)
 
 **[CVPR 2025]** Track4Gen: Teaching Video Diffusion Models to Track Points Improves Video Generation \
 _**Hyeonho Jeong**, Chun-Hao P. Huang, Jong Chul Ye, Niloy J. Mitra, Duygu Ceylan_ \
