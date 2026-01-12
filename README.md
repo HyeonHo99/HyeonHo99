@@ -16,6 +16,15 @@
 **Recent papers**
 
 
+Memory-V2V: Augmenting Video-to-Video Diffusion Models with Memory \
+*Dohun Lee, Chun-Hao Paul Huang, Xuelin Chen, Jong Chul Ye, Duygu Ceylan, **Hyeonho Jeong*** \
+[Paper](#) | [Project](#)
+
+
+SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time \
+*Zhening Huang, **Hyeonho Jeong**, Xuelin Chen, Yulia Gryaditskaya, Tuanfeng Y. Wang, Joan Lasenby, Chun-Hao Huang* \
+[Paper](https://arxiv.org/abs/2512.25075) | [Project](https://zheninghuang.github.io/Space-Time-Pilot/)
+
 **[BMVC 2025]** JOG3R: Towards 3D-Consistent Video Generators \
 *Chun-Hao P. Huang, Niloy J. Mitra, **Hyeonho Jeong**, Jae Shin Yoon, Duygu Ceylan* \
 [Paper](https://arxiv.org/abs/2501.01409) | [Project](https://paulchhuang.github.io/jog3rwebsite/)
