@@ -25,6 +25,10 @@ SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time \
 *Zhening Huang, **Hyeonho Jeong**, Xuelin Chen, Yulia Gryaditskaya, Tuanfeng Y. Wang, Joan Lasenby, Chun-Hao Huang* \
 [Paper](https://arxiv.org/abs/2512.25075) | [Project](https://zheninghuang.github.io/Space-Time-Pilot/)
 
+Improving Video Diffusion Transformer Training by Multi-Feature Fusion and Alignment from Self-Supervised Vision Encoders \
+Dohun Lee*, **Hyeonho Jeong***, Jiwook Kim, Duygu Ceylan, Jong Chul Ye \
+[Paper](https://arxiv.org/abs/2509.09547) | [Project](https://align4gen.github.io/align4gen/)
+
 **[BMVC 2025]** JOG3R: Towards 3D-Consistent Video Generators \
 *Chun-Hao P. Huang, Niloy J. Mitra, **Hyeonho Jeong**, Jae Shin Yoon, Duygu Ceylan* \
 [Paper](https://arxiv.org/abs/2501.01409) | [Project](https://paulchhuang.github.io/jog3rwebsite/)
