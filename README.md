@@ -18,7 +18,7 @@
 
 Memory-V2V: Augmenting Video-to-Video Diffusion Models with Memory \
 *Dohun Lee, Chun-Hao Paul Huang, Xuelin Chen, Jong Chul Ye, Duygu Ceylan, **Hyeonho Jeong*** \
-[Paper](#) | [Project](#)
+[Paper](https://arxiv.org/abs/2601.16296) | [Project](https://dohunlee1.github.io/MemoryV2V/)
 
 
 SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time \
