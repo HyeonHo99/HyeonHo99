@@ -21,7 +21,7 @@ Memory-V2V: Augmenting Video-to-Video Diffusion Models with Memory \
 [Paper](https://arxiv.org/abs/2601.16296) | [Project](https://dohunlee1.github.io/MemoryV2V/)
 
 
-SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time \
+**[CVPR 2026]** SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time \
 *Zhening Huang, **Hyeonho Jeong**, Xuelin Chen, Yulia Gryaditskaya, Tuanfeng Y. Wang, Joan Lasenby, Chun-Hao Huang* \
 [Paper](https://arxiv.org/abs/2512.25075) | [Project](https://zheninghuang.github.io/Space-Time-Pilot/)
 
