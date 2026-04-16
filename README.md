@@ -15,17 +15,21 @@
 
 **Recent papers**
 
+TrajectoryMover: Generative Movement of Object Trajectories in Videos \
+_*Kiran Chhatre, **Hyeonho Jeong**, Yulia Gryaditskaya, Christopher E. Peters, Chun-Hao Paul Huang, Paul Guerrero*_ \
+[Paper](https://arxiv.org/abs/2603.29092) | [Project](https://chhatrekiran.github.io/trajectorymover/)
+
 Memory-V2V: Augmenting Video-to-Video Diffusion Models with Memory \
-*Dohun Lee, Chun-Hao Paul Huang, Xuelin Chen, Jong Chul Ye, Duygu Ceylan, **Hyeonho Jeong*** \
+_*Dohun Lee, Chun-Hao Paul Huang, Xuelin Chen, Jong Chul Ye, Duygu Ceylan, **Hyeonho Jeong***_ \
 [Paper](https://arxiv.org/abs/2601.16296) | [Project](https://dohunlee1.github.io/MemoryV2V/)
 
 
 **[CVPR 2026]** SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time \
-*Zhening Huang, **Hyeonho Jeong**, Xuelin Chen, Yulia Gryaditskaya, Tuanfeng Y. Wang, Joan Lasenby, Chun-Hao Huang* \
+_*Zhening Huang, **Hyeonho Jeong**, Xuelin Chen, Yulia Gryaditskaya, Tuanfeng Y. Wang, Joan Lasenby, Chun-Hao Huang*_ \
 [Paper](https://arxiv.org/abs/2512.25075) | [Project](https://zheninghuang.github.io/Space-Time-Pilot/)
 
 Improving Video Diffusion Transformer Training by Multi-Feature Fusion and Alignment from Self-Supervised Vision Encoders \
-*Dohun Lee*, **Hyeonho Jeong***, Jiwook Kim, Duygu Ceylan, Jong Chul Ye* \
+_*Dohun Lee*, **Hyeonho Jeong**, Jiwook Kim, Duygu Ceylan, Jong Chul Ye*_ \
 [Paper](https://arxiv.org/abs/2509.09547) | [Project](https://align4gen.github.io/align4gen/)
 
 **[BMVC 2025]** JOG3R: Towards 3D-Consistent Video Generators \
