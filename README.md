@@ -29,7 +29,7 @@ _*Zhening Huang, **Hyeonho Jeong**, Xuelin Chen, Yulia Gryaditskaya, Tuanfeng Y.
 [Paper](https://arxiv.org/abs/2512.25075) | [Project](https://zheninghuang.github.io/Space-Time-Pilot/)
 
 Improving Video Diffusion Transformer Training by Multi-Feature Fusion and Alignment from Self-Supervised Vision Encoders \
-_*Dohun Lee*, **Hyeonho Jeong**, Jiwook Kim, Duygu Ceylan, Jong Chul Ye*_ \
+_*Dohun Lee, **Hyeonho Jeong**, Jiwook Kim, Duygu Ceylan, Jong Chul Ye*_ \
 [Paper](https://arxiv.org/abs/2509.09547) | [Project](https://align4gen.github.io/align4gen/)
 
 **[BMVC 2025]** JOG3R: Towards 3D-Consistent Video Generators \
