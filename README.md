@@ -19,7 +19,7 @@ TrajectoryMover: Generative Movement of Object Trajectories in Videos \
 _*Kiran Chhatre, **Hyeonho Jeong**, Yulia Gryaditskaya, Christopher E. Peters, Chun-Hao Paul Huang, Paul Guerrero*_ \
 [Paper](https://arxiv.org/abs/2603.29092) | [Project](https://chhatrekiran.github.io/trajectorymover/)
 
-Memory-V2V: Augmenting Video-to-Video Diffusion Models with Memory \
+**[ECCV 2026]** Memory-V2V: Augmenting Video-to-Video Diffusion Models with Memory \
 _*Dohun Lee, Chun-Hao Paul Huang, Xuelin Chen, Jong Chul Ye, Duygu Ceylan, **Hyeonho Jeong***_ \
 [Paper](https://arxiv.org/abs/2601.16296) | [Project](https://dohunlee1.github.io/MemoryV2V/)
 
